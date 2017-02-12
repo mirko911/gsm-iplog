@@ -1,0 +1,7 @@
+{
+    "iplog": {
+        "enabled": true,
+        "logname": "iplog",
+        "string": "<TIME> <PLAYER_NAME> (<PLAYER_GUID>) <PLAYER_IP>"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "gsm.plugins.iplog": {
+        "compatibility": {
+            "dependencies": {"gsm.daemon": "1.1.0"},
+            "games": {"bf3": "1", "bf4": "1", "bfhl": "1", "cod2": "1", "cod4": "1", "cod5": "1", "cod6": "1"}
+        },
+        "information": {
+            "author": "Mirko911",
+            "date": "12.02.2016",
+            "description": "Offers the ability to log the ip to a logfile.",
+            "name": "IPLog",
+            "version": "1.0.0",
+            "website": "www.gsmanager.de"
+        }
+    }
+}
